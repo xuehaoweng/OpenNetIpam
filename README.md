@@ -1,4 +1,4 @@
-# django_open-ipam
+# django-open-ipam
 
 #### 介绍
 #### 软件架构
